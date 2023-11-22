@@ -8,7 +8,7 @@ then
 	exit 1
 fi
 
-echo "Hello, ${input}"
+echo "Greetings, ${input}"
 
 exit 0
 
