@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Hellow,Today is $(date +%A)
+echo Hellow $1,Today is $(date +%A)
